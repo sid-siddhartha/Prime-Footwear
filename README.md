@@ -1,2 +1,2 @@
 # FutureReadyTalentFinalProject
-This a Final Project For Future Ready Talent Internship
+This is a Final Group Project For Future Ready Talent Internship
