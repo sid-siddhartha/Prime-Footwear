@@ -1,0 +1,37 @@
+
+ .banner-image{ padding-top: 75px;    
+    padding-bottom: 50px; 
+    text-align: center;     
+    color: #f8f8f8; 
+    background-size: cover;
+}
+
+.banner-content{
+position:relative; 
+padding-top: 6%; 
+padding-bottom: 6%; 
+margin-top: 12%; 
+margin-bottom: 12%; 
+background-color: rgba(0, 0, 0, 0.7); 
+max-width: 660px;
+overflow: hidden;
+
+}
+
+.thumbnail img{
+max-height: 150px; 
+}
+main {
+min-height: 100vh;
+}
+
+body{
+  background: linear-gradient(90deg, #2BC0E4 1%, #EAECC6 100%);
+}
+a{text-decoration:none;}
+button{
+	color: #000;
+	font-size: 25px;
+	text-decoration: none;
+	background-color: coral;
+  }
