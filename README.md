@@ -5,6 +5,7 @@ Github - https://sid-siddhartha.github.io/FutureReadyTalentFinalProject/
 
 
 Team Members: 
+
 Gunda Sai Venkata Pavan Kalyan
 
 Sanaka Meghana
@@ -12,6 +13,7 @@ Sanaka Meghana
 Malladi Jayanthi 
 
 Chebrolu Sai Siddhartha
+
 Project title : Shoe Store Website
 
 Project Statement : In our website, we created a shoe store website that helps to find good quality Nike shoes to help people to buy their favorite shoes.
