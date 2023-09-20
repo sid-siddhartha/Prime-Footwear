@@ -1,8 +1,7 @@
 # PrimeFootwear
 This is a Final Group Project For Future Ready Talent Internship
 
-Github - [https://sid-siddhartha.github.io/FutureReadyTalentFinalProject/](https://sid-siddhartha.github.io/Prime-Footwear/)
-
+Github - https://sid-siddhartha.github.io/Prime-Footwear/
 
 Team Members: 
 
