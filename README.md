@@ -5,10 +5,6 @@ Github - https://sid-siddhartha.github.io/Prime-Footwear/
 
 Team Members: 
 
-Gunda Sai Venkata Pavan Kalyan
-
-Sanaka Meghana
-
 Malladi Jayanthi 
 
 Chebrolu Sai Siddhartha
